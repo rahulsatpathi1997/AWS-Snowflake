@@ -4,3 +4,18 @@ Data Loaded AWS To Snowflake
 
 <h2>Project Objective</h2>
 The objective of this project is to develop a streamlined data pipeline that efficiently processes CSV files uploaded to an AWS S3 bucket and loads the data into Snowflake, a cloud-based data warehousing platform. This pipeline aims to automate the ingestion, transformation, and loading processes, ensuring data integrity, scalability, and reliability.
+
+
+<h3>We will use AWS S3 and IAM service</h3>
+1) Create AWS Account
+2) Create S3 Bucket
+3) Create IAM Role
+4) Upload CSV File AWS S3 Bucket
+
+
+
+<h3>We will create a Warehouse, Database, External Stage, and Worksheet in Snowflake.</h3>
+1) Create Worksheet
+2) Create Database
+3) Create External Stage
+4) Create Warehouse
