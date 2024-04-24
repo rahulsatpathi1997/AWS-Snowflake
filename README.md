@@ -7,11 +7,12 @@ The objective of this project is to develop a streamlined data pipeline that eff
 
 
 <h3>We will use AWS S3 and IAM service</h3>
-1) Create AWS Account
-2) Create S3 Bucket
-3) Create IAM Role
-4) Upload CSV File AWS S3 Bucket
-
+<ol>
+<li>Create AWS Account</li>
+<li>Create S3 Bucket</li>
+<li>Create IAM Role</li>
+<li>Upload CSV File AWS S3 Bucket</li>
+</ol>
 
 
 <h3>We will create a Warehouse, Database, External Stage, and Worksheet in Snowflake.</h3>
