@@ -22,3 +22,16 @@ The objective of this project is to develop a streamlined data pipeline that eff
 <li>Create External Stage</li>
 <li>Create Warehouse</li>
 </ol>
+
+<h2>Project Details :</h2>
+After loading the data in AWS, we will work on all these points in Snowflake.
+<ol>
+  <li>How to Create Storage Integration Object in Snowflake</li>
+   <li> Get external_id and update it in S3</li>
+   <li>Create Database</li>
+   <li>How to Create file format object</li>
+   <li>Create stage object with integration object & file format object</li>
+   <li>Listing files under your s3 buckets</li>
+   <li>Use the Copy command to load the files</li>
+  <li>Validate the data</li>
+</ol>
