@@ -16,7 +16,9 @@ The objective of this project is to develop a streamlined data pipeline that eff
 
 
 <h3>We will create a Warehouse, Database, External Stage, and Worksheet in Snowflake.</h3>
-1) Create Worksheet
-2) Create Database
-3) Create External Stage
-4) Create Warehouse
+<ol>
+<li>Create Worksheet</li>
+<li>Create Database</li>
+<li>Create External Stage</li>
+<li>Create Warehouse</li>
+</ol>
